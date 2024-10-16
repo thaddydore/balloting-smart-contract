@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@metamask/sdk-react": "^0.26.5",
+    "@pinata/sdk": "^2.1.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
     "hardhat": "^2.22.6",
     "jotai": "^2.9.1",
     "next": "14.2.5",
